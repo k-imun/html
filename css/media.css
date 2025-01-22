@@ -1,0 +1,170 @@
+@media(max-width: 1441px){
+    .container{width: 1340px;}
+    .contents .cont .con1{
+        width: 54%;
+    }
+    .contents .cont .con2{
+        width: 76%;
+    }
+    .contents .cont .con3{
+        width: 86%;
+    }
+}
+@media(max-width: 1341px){
+    .container{width: 1240px;}
+    .contents .cont .con1{
+        width: 58%;
+    }
+    .contents .cont .con2{
+        width: 82%;
+    }
+    .contents .cont .con3{
+        width: 94%;
+    }
+    .contents .cont .con3 > div > figure{
+        width: 44.8%;
+    }
+}
+@media(max-width: 1241px){
+    .container{width: 1140px;}
+    h1{
+        font-size: 26px;
+    }
+    .contents .cont .con1{
+        width: 63%;
+    }
+    .contents .cont .con3{
+        width: 100%;
+    }
+    .contents .cont .con3 > div > figure{
+        width: 44.4%;
+    }
+    .contents .cont .con3 > div > figure > div{
+        height: 740px;
+    }
+    .contents .cont .con2{
+        width: 88%;
+    }
+}
+@media(max-width: 1141px){
+    .container{width: 1040px;}
+    h1{
+        font-size: 24px;
+    }
+    .contents .cont .con1{
+        width: 69%;
+    }
+    .contents .cont .con3 > div > figure{
+        width: 43.8%;
+    }
+    .contents .cont .con2{
+        width: 94%;
+    }
+}
+@media(max-width: 1041px){
+    .container{width: 940px;}
+    .contents .cont .con1{
+        width: 75%;
+    }
+    .contents .cont .con2{
+        width: 100%;
+    }
+    .contents .cont .con3 > div > figure{
+        width: 65%;
+        float: none;
+        margin: 50px auto;
+    }
+    .contents .cont .con3 > div > figure > div{
+        height: auto;
+    }
+    .contents .cont .con3 > div > figure > div > figcaption > a> img{
+        height: 350px;
+    }
+}
+@media(max-width: 941px){
+    .container{width: 840px;}
+    .contents .cont .con1{
+        width: 84%;
+    }
+    .contents .cont .con3 > div > figure{
+        width: 70%;
+    }
+}
+@media(max-width: 841px){
+    .container{width: 740px;}
+    h1{
+        font-size: 22px;
+    }
+    .contents .cont .con1{
+        width: 96%;
+    }
+    .contents .cont .con3 > div > figure{
+        width: 80%;
+    }
+}
+@media(max-width: 741px){
+    .container{width: 640px;}
+    .contents .cont .con1{
+        width: 100%;
+    }
+    .contents .cont .con3 > div > figure{
+        width: 90%;
+    }
+}
+@media(max-width: 641px){
+    .container{width: 80%;}
+    h1{
+        font-size: 18px;
+    }
+    .contents .cont > h2{
+        border-bottom: 1px solid #989898;
+        padding-bottom: 10px;
+    }
+    .contents .cont .con1{
+        position: relative;
+    }
+    .contents .cont .con1 .c1_left{
+        width: 100%;
+        float: none;
+        margin-top: 350px;
+    }
+    .contents .cont .con1 .c1_right{
+        width: 270px;
+        float: none;
+        position: absolute;
+        top: -300px;
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .contents .cont .con2 > div .c2{
+        width: 100%;
+        float: none;
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .contents .cont .con3 > div > figure{
+        width: 95%;
+    }
+    .contents .cont .con3 > div > figure > div > figcaption > a> img{
+        height: 250px;
+    }
+}
+@media(max-width: 541px){
+    .contents .cont .con3 > div > figure > div > figcaption > a> img{
+        height: 200px;
+    }
+}
+@media(max-width: 441px){
+    h1{
+        font-size: 16px;
+    }
+    .contents .cont .con3 > div > figure > div > figcaption > a > h4{
+        font-size: 17px;
+    }
+    .footer > div > h3{
+        font-size: 18px;
+    }
+    .footer > article > h3{
+        font-size: 18px;
+    }
+}
